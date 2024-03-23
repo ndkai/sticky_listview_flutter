@@ -1,0 +1,1 @@
+ C:\\src\\Bakco\ App\\APP\\ranking_listview\\.dart_tool\\flutter_build\\634947c6c5576e6fa9d750b20237f8d9\\native_assets.yaml: 
